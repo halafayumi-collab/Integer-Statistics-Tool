@@ -1,8 +1,8 @@
 
 
-package hala_1;
+package IntegerStatisticsTool;
 import java.util.*;
-public class Hala_1 {
+public class IntegerStatisticsTool {
 
   public static void main(String[]args){
       Scanner input=new Scanner(System.in);
