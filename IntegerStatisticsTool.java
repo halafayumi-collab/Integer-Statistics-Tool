@@ -28,12 +28,6 @@ public class IntegerStatisticsTool {
       double average=total/(pos+neg);
       System.out.println("the average is "+average);
       }
-     public static int sumdigit (long n ){
-int sum=0;
- while (n!=0){
- sum+=n%10;
- n=n/10;
- } return sum;
-}
+     
 
 }
